@@ -8,14 +8,13 @@ relative_permalinks: true
 title:               Blog
 tagline:             'the offical stackDB blog'
 description:         'This is the offical blog of <a href="https://stackdb.net" target="_blank">stackDB.net</a>. We will post news and other related content here to keep the main site clean.'
-url:                 http://blog.stackdb.net
+url:                 http://blog.stackdb.net/
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              stackDB
-  url:               https://twitter.com/mdo
   email:             contact@stackdb.net
 # Custom vars
 version:             1.0.0
