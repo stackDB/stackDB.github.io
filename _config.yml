@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Blog
-tagline:             'the offical stackDB blog'
-description:         'This is the offical blog of <a href="https://stackdb.net" target="_blank">stackDB.net</a>. We will post news and other related content here to keep the main site clean.'
+title:               stackDB Blog
+tagline:             the official
+description:         'This is the official blog of <a href="https://stackdb.net" target="_blank">stackDB.net</a>. We will post news and other related content here to keep the main site clean.'
 url:                 http://blog.stackdb.net
 baseurl:             ''
 paginate:            5

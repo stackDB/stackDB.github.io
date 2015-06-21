@@ -27,6 +27,30 @@
  * Themes
  */
 
+/*
+* Ubuntu Font
+*/
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('/public/css/font/ubuntu-light-webfont.eot');
+    src: url('/public/css/font/ubuntu-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/public/css/font/ubuntu-light-webfont.woff') format('woff'),
+         url('/public/css/font/ubuntu-light-webfont.ttf') format('truetype'),
+         url('/public/css/font/ubuntu-light-webfont.svg#ubuntulight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('/public/css/font/ubuntu-light-italic-webfont.eot');
+    src: url('/public/css/font/ubuntu-light-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/public/css/font/ubuntu-light-italic-webfont.woff') format('woff'),
+         url('/public/css/font/ubuntu-light-italic-webfont.ttf') format('truetype'),
+         url('/public/css/font/ubuntu-light-italic-webfont.svg#ubuntulight_italic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
 
 /*
  * Global resets
@@ -102,9 +126,10 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: #aaa;
 }
 .masthead-title a {
+  margin-right: 2px;
   color: #505050;
 }
 .masthead-title small {
