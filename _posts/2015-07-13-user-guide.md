@@ -8,7 +8,7 @@ title: User Guide
 
 ## How To Search For Stacks
 
-One of our goals is to make the supplement stacks easily searchable. That's why we have implemented the *Smart Search* function. There are three different different types of things you can search for.
+One of our goals is to make the supplement stacks easily searchable. That's why we have implemented the *Smart Search* function. There are three different types of things you can search for.
 
 1. **Supplements**
 1. **Tags** (think of them as categories)
