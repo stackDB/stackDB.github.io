@@ -11,7 +11,7 @@ title: User Guide
 One of our goals is to make the supplement stacks easily searchable. That's why we have implemented the *Smart Search* function. There are three different different types of things you can search for.
 
 1. **Supplements**
-1. **Tags** (think of it as categories)
+1. **Tags** (think of them as categories)
 1. **Full-Text** (search for a word in the stack's description and title)
 
 ![Search](/public/img/search.png)
